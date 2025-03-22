@@ -1,0 +1,2 @@
+b1: npm init -y 
+b2: npm install express
